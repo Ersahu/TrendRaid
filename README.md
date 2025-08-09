@@ -38,7 +38,7 @@ To run this project locally:
 ## 🚀 Getting Started
 **Clone the repository**
 
-git clone https://github.com/yourusername/TrendRaid.git
+git clone https://github.com/Ersahu/TrendRaid.git
 
 Open in browser
 
