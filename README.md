@@ -1,6 +1,14 @@
 ## TrendRaid
 TrendRaid is a modern, responsive, and user-friendly e-commerce platform built with HTML, CSS, and JavaScript. Designed for showcasing trendy, lifestyle, and seasonal products, it focuses on delivering a seamless shopping experience with elegant visuals and interactive features.
 
+## 🌐 Live Preview
+
+To run this project locally:
+
+1. Download or clone this repository.
+2. Make sure all image assets (`logo.png`, `a.png`, `f1.jpg`, etc.) are in the same folder.
+3. Open `index.html` in your browser.
+   
 ## 📌 Features
 **Modern Homepage** – Clean layout with brand-focused design.
 
