@@ -1,4 +1,4 @@
-## TrendRaid
+## TrendRaid – E-Commerce Website
 TrendRaid is a modern, responsive, and user-friendly e-commerce platform built with HTML, CSS, and JavaScript. Designed for showcasing trendy, lifestyle, and seasonal products, it focuses on delivering a seamless shopping experience with elegant visuals and interactive features.
 
 ## 🌐 Live Preview
