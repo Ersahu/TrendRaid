@@ -24,59 +24,16 @@ TrendRaid is a modern, responsive, and user-friendly e-commerce platform built w
 
 **JavaScript** – Interactivity and cart management
 
-## 📂 Project Structure
-TrendRaid/
-│
-├── css/
-
-│   ├── colors/
-
-│   ├── all.min.css
-
-│   ├── normalize.css
-
-│   ├── style.css
-
-│   ├── swiper-bundle.min.css
-
-│   └── swiper.min.css
-
-│
-├── imgs/                  # Images and product pictures
-│
-
-├── js/
-
-│   ├── main.js
-
-│   ├── swiper-bundle.esm.browser.min.js
-
-│   └── swiper-bundle.min.js
-
-│
-├── webfonts/              # Font files for icons & typography
-│
-
-├── about.html
-
-├── blog.html
-
-├── contact.html
-
-├── details.html
-
-├── faq.html
-
-├── index.html
-
-└── shop.html
 
 
 
 ## 🚀 Getting Started
 **Clone the repository**
+
 git clone https://github.com/yourusername/TrendRaid.git
+
 Open in browser
+
 Open index.html in your preferred browser.
 
 ## 📌 Future Improvements
